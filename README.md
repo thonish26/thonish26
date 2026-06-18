@@ -143,7 +143,7 @@ To build a successful career as a Software Developer by contributing to innovati
 
 💼 **LinkedIn:** www.linkedin.com/in/m-thonish26
 
-🐙 **GitHub:** github.com/thonish26
+🐙 **GitHub:** https://github.com/thonish26
 
 </div>
 
