@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm Thonish M</h1>
-
-<h3 align="center">
-Java Developer | BCA Graduate | Aspiring Java Full Stack Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Thonish</h1>
+<h3 align="center">BCA Graduate | Java Full Stack Developer | Web Developer</h3>
 
 <p align="center">
-Passionate about building scalable web applications and continuously improving my software development skills. Currently focused on Java, Spring Boot, MySQL, and modern web technologies while seeking opportunities to contribute and grow as a software developer.
-</p>
-
-<p align="center">
-  <a href="mailto:thonishm26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://www.linkedin.com/in/m-thonish26">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
@@ -21,90 +14,70 @@ Passionate about building scalable web applications and continuously improving m
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA)
-- ☕ Passionate Java Developer
-- 🌱 Currently learning Spring Boot, REST APIs, MySQL, and Backend Development
-- 💡 Strong understanding of Core Java, OOP Concepts, HTML, CSS, and JavaScript
-- 🚀 Looking for Internship and Entry-Level Software Developer Opportunities
-- 📍 India
+* 🎓 BCA Graduate
+* 💻 Java Full Stack Developer
+* 🌱 Learning Spring Boot & React
+* 🚀 Interested in Web Development
+* 📍 Tamil Nadu, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 ### Programming Languages
-- Java
-- JavaScript
 
-### Web Technologies
-- HTML5
-- CSS3
-- JavaScript
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### Backend Technologies
-- Core Java
-- Spring Boot (Learning)
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 ### Database
-- MySQL
 
-### Concepts
-- Object-Oriented Programming (OOP)
-- CRUD Operations
-- MVC Architecture
-- Database Design
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- IntelliJ IDEA
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 💰 Income & Expense Management System
+### Hotel Management System
+* HTML, CSS, JavaScript
+* Room Booking System
+* Responsive Design
 
-A Spring Boot based web application for managing personal income and expenses efficiently.
+### Employee Management System
+* Java, Spring Boot, MySQL
+* CRUD Operations
+* REST API
 
-**Key Features**
-- Income Tracking
-- Expense Management
-- Transaction History
-- Database Integration
-- User-Friendly Interface
-
-🔗 Repository: https://github.com/thonish26/Income_Expense-in-SpringBoot
-
----
-
-### 🧾 Billing Management System
-
-A billing application developed using Java to manage customer billing operations.
-
-**Key Features**
-- Customer Management
-- Bill Generation
-- Product Management
-- Record Maintenance
-- Easy Billing Process
-
-🔗 Repository: https://github.com/thonish26/Billing-Management-System
+### Portfolio Website
+* Personal Portfolio
+* Responsive Design
 
 ---
 
-## 📈 Current Learning Journey
+## 📜 Certifications
 
-```text
-Java          ██████████████ 85%
-OOP           ██████████████ 85%
-HTML/CSS      █████████████  80%
-JavaScript    ███████████    70%
-MySQL         ██████████     65%
-Spring Boot   ███████        50%
+* Java Full Stack Development
+* Spring Boot Training
+* MySQL Certification
+* Digital Marketing Certification
 
+---
 
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOURPROFILE
+* Email: yourmail@gmail.com
