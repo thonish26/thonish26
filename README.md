@@ -59,7 +59,7 @@
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Learner;Docker+Learner;Backend+Development+Enthusiast;Open+to+Software+Developer+Opportunities" >
+
 </div>
 
 ---
