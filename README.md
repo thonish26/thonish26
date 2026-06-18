@@ -16,14 +16,16 @@
 + ⚙️ REST API & Microservices Enthusiast  
 + 🧠 System Design Learner  
 + 🚀 Goal: FAANG / Top Tech Company Engineer
+
+
 🚀 TECH STACK
-Backend
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /> </p>
-Databases
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
-Tools
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" /> </p>
-Frontend
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
 
 🌐 CONNECT WITH ME
