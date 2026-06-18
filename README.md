@@ -151,8 +151,6 @@ To build a successful career as a Software Developer by contributing to innovati
 
 <div align="center">
 
-### 💡 Developer Mindset
-
 *"Code. Learn. Improve. Repeat."*
 
 </div>
