@@ -1,46 +1,48 @@
-<!-- CYBER ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=220&section=header&text=THONISH%20M&fontSize=38&fontColor=00ffcc&animation=fadeIn" />
+<!-- ========== NEON CYBER HEADER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=240&section=header&text=THONISH%20M&fontSize=42&fontColor=00ffcc&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
+<!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=22&center=true&vCenter=true&width=650&lines=Java+Developer;Spring+Boot+Backend+Engineer;REST+API+Builder;Clean+Code+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;Spring+Boot+Developer;REST+API+Architect;System+Design+Learner;Future+FAANG+Engineer" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ ABOUT ME
 
-- 🎓 BCA Computer Science Student  
-- ☕ Java + Spring Boot Developer  
-- ⚙️ Backend Development Enthusiast  
-- 🚀 Interested in scalable system design  
-- 🎯 Focused on becoming a Software Engineer  
+```diff
++ 🎓 BCA Computer Science Student  
++ ☕ Java + Spring Boot Developer  
++ ⚙️ REST API & Microservices Enthusiast  
++ 🧠 System Design Learner  
++ 🚀 Goal: FAANG / Top Tech Company Engineer
+🚀 TECH STACK
+Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
+Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" /> </p>
+Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:thonishm26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
+🌐 CONNECT WITH ME
+<p align="center"> <a href="mailto:thonishm26@gmail.com">
+ <img src="https://img.shields.io/badge/EMAIL-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
 <a href="https://www.linkedin.com/in/m-thonish26">
-<img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/> </a>
+<a href="https://github.com/thonish26">
+ <img src="https://img.shields.io/badge/GITHUB-00ffcc?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
 
-</p>
+🔥 CODING VIBES
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=18&center=true&vCenter=true&width=700&lines=Think+Like+Engineer;Build+Like+Architect;Code+Like+Pro;Never+Stop+Learning" /> </p>
 
----
 
-## 👁 Profile Views
+>
+👁 PROFILE VIEWS
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thonish26&color=00ffcc&style=for-the-badge"/> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thonish26&color=00ffcc&style=for-the-badge"/>
-</p>
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 
----
-
-<!-- WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer"/>
+<!-- ========== FOOTER ========== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=140&section=footer" /> ```
