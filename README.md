@@ -1,57 +1,66 @@
-<h1 align="center">Hi 👋, I'm Thonish M</h1>
+<div align="center">
 
-<h3 align="center">Java Developer | BCA Graduate | Aspiring Backend Engineer</h3>
+# 👋 Hi, I'm Thonish M
 
-<p align="center">
-Passionate about developing scalable applications and solving real-world problems using Java and modern technologies.
-</p>
+### Java Developer • BCA Graduate • Aspiring Backend Engineer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-thonish26">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Backend+Development+Enthusiast;Open+to+Software+Developer+Opportunities" />
+
+<p>
   <a href="mailto:thonishm26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/m-thonish26">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/thonish26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BCA Graduate with a strong foundation in software development.
+🎓 BCA Graduate passionate about software development and backend engineering.
 
-☕ Passionate about Java, Object-Oriented Programming, and Backend Development.
+☕ Strong foundation in Core Java and Object-Oriented Programming.
 
-🌱 Currently enhancing my skills in Spring Boot, REST APIs, and MySQL.
+🌱 Currently learning Spring Boot, REST APIs, and MySQL.
 
-💡 Interested in building efficient, scalable, and user-friendly applications.
+💻 Interested in Backend Development and Full Stack Development.
 
 🚀 Open to Internship and Entry-Level Software Developer opportunities.
 
+📍 Tamil Nadu, India.
+
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-<p>
+
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
 
 ### Backend
-<p>
+
 <img src="https://skillicons.dev/icons?i=spring" />
-</p>
 
 ### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
-### Tools & Platforms
-<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
-</p>
+
+</div>
 
 ---
 
@@ -59,9 +68,14 @@ Passionate about developing scalable applications and solving real-world problem
 
 ### 💰 Income & Expense Management System
 
-A full-stack Spring Boot application that helps users efficiently manage income, expenses, and financial records.
+A Spring Boot application for managing income and expenses with database integration.
 
-**Technologies:** Java, Spring Boot, MySQL, HTML, CSS
+**Tech Stack**
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
 
 🔗 Repository:
 https://github.com/thonish26/Income_Expense-in-SpringBoot
@@ -70,9 +84,13 @@ https://github.com/thonish26/Income_Expense-in-SpringBoot
 
 ### 🧾 Billing Management System
 
-A Java-based billing solution designed to simplify customer billing, transaction management, and record maintenance.
+A Java-based billing solution for managing customer information and billing records.
 
-**Technologies:** Java, MySQL, HTML, CSS
+**Tech Stack**
+- Java
+- MySQL
+- HTML
+- CSS
 
 🔗 Repository:
 https://github.com/thonish26/Billing-Management-System
@@ -82,29 +100,44 @@ https://github.com/thonish26/Billing-Management-System
 ## 📚 Currently Learning
 
 - Spring Boot
-- RESTful Web Services
-- Database Optimization
-- Backend Architecture
-- Git & GitHub Workflows
+- RESTful APIs
+- MySQL
+- Git & GitHub
+- Backend Development
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thonish26&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonish26&layout=compact" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thonish26&show_icons=true&theme=transparent&hide_border=true" />
 
-## 🎯 Career Goal
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonish26&layout=compact&theme=transparent&hide_border=true" />
 
-To begin my career as a Software Developer where I can contribute to meaningful projects, continuously learn new technologies, and grow into a skilled Java Backend Engineer.
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thonish26&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Career Objective
+
+To build a successful career as a Software Developer by contributing to innovative projects, continuously learning new technologies, and developing scalable software solutions.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
 
 📧 **Email:** thonishm26@gmail.com
 
@@ -112,8 +145,14 @@ To begin my career as a Software Developer where I can contribute to meaningful 
 
 🐙 **GitHub:** github.com/thonish26
 
+</div>
+
 ---
 
-<p align="center">
-  <i>"Code. Learn. Improve. Repeat."</i>
-</p>
+<div align="center">
+
+### 💡 Developer Mindset
+
+*"Code. Learn. Improve. Repeat."*
+
+</div>
