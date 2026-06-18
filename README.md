@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thonish26/thonish26/main/banner2.png" alt="Thonish M Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Thonish M
