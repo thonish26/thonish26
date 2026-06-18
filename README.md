@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Thonish</h1>
-<h3 align="center">BCA Graduate | Java Full Stack Developer | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thonish" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BCA+Graduate;Java+Full+Stack+Developer;Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -14,70 +19,69 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 BCA Graduate
-* 💻 Java Full Stack Developer
-* 🌱 Learning Spring Boot & React
-* 🚀 Interested in Web Development
-* 📍 Tamil Nadu, India
+* 🎓 **BCA Graduate** passionate about building robust web applications.
+* 💻 **Java Full Stack Developer** specializing in enterprise-ready backends and dynamic frontends.
+* 🌱 Currently deep-diving into **Spring Boot** & **React** ecosystem.
+* 🚀 Always open to collaborating on open-source web development projects.
+* 📍 Based in **Tamil Nadu, India**.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</p>
 
-### Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Hotel Management System
-* HTML, CSS, JavaScript
-* Room Booking System
-* Responsive Design
+### 🏨 Hotel Management System
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* Key features: Streamlined room booking flow, dynamic availability tracking, and a fully responsive interface.
 
-### Employee Management System
-* Java, Spring Boot, MySQL
-* CRUD Operations
-* REST API
+### 👥 Employee Management System
+* **Tech Stack:** Java, Spring Boot, MySQL
+* Key features: Built enterprise-grade REST APIs, secured full CRUD functionalities, and designed efficient database schemas.
 
-### Portfolio Website
-* Personal Portfolio
-* Responsive Design
+### 🌐 Portfolio Website
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* Key features: A clean, pixel-perfect personal portfolio optimized for cross-device responsiveness.
 
 ---
 
 ## 📜 Certifications
 
-* Java Full Stack Development
-* Spring Boot Training
-* MySQL Certification
-* Digital Marketing Certification
+* 🏅 Java Full Stack Development Training
+* 🏅 Spring Boot Masterclass
+* 🏅 SQL & Relational Databases (MySQL)
+* 🏅 Foundations of Digital Marketing
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
-* LinkedIn: https://linkedin.com/in/YOURPROFILE
-* Email: yourmail@gmail.com
+
+* 💼 **LinkedIn:** https://linkedin.com/in/m-thonish26
+* 📧 **Email:** thonishmm26@gmail.com
