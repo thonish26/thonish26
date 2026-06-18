@@ -100,16 +100,6 @@ A Java-based billing application developed to manage customer records and billin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thonish26&theme=flat&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
