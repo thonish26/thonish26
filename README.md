@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thonish26/thonish26/main/banner1.png.png" alt="Thonish M Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/thonish26/thonish26/main/banner2.png.png" alt="Thonish M Banner" width="100%" />
 </p>
 
 <div align="center">
