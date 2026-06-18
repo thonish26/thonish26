@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%" />
-</p>
-
 <div align="center">
 
 # 👋 Hi, I'm Thonish M
