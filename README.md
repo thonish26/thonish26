@@ -1,50 +1,83 @@
-<!-- ========== NEON CYBER HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=240&section=header&text=THONISH%20M&fontSize=42&fontColor=00ffcc&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Thonish</h1>
+<h3 align="center">BCA Graduate | Java Full Stack Developer | Web Developer</h3>
 
-<!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;Spring+Boot+Developer;REST+API+Architect;System+Design+Learner;Future+FAANG+Engineer" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## ⚡ ABOUT ME
+## 👨‍💻 About Me
 
-```diff
-+ 🎓 BCA Computer Science Student  
-+ ☕ Java + Spring Boot Developer  
-+ ⚙️ REST API & Microservices Enthusiast  
-+ 🧠 System Design Learner  
-+ 🚀 Goal: FAANG / Top Tech Company Engineer
+- 🎓 BCA Graduate
+- 💻 Java Full Stack Developer
+- 🌱 Learning Spring Boot & React
+- 🚀 Interested in Web Development
+- 📍 Tamil Nadu, India
 
+---
 
-🚀 TECH STACK
+## 🛠️ Skills
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /> </p>
+### Programming Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" /> </p>
+### Frameworks
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
-🌐 CONNECT WITH ME
-<p align="center"> <a href="mailto:thonishm26@gmail.com">
- <img src="https://img.shields.io/badge/EMAIL-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
-<a href="https://www.linkedin.com/in/m-thonish26">
-<img src="https://img.shields.io/badge/LINKEDIN-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/> </a>
-<a href="https://github.com/thonish26">
- <img src="https://img.shields.io/badge/GITHUB-00ffcc?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
+### Database
 
-🔥 CODING VIBES
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=18&center=true&vCenter=true&width=700&lines=Think+Like+Engineer;Build+Like+Architect;Code+Like+Pro;Never+Stop+Learning" /> </p>
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
+---
 
->
-👁 PROFILE VIEWS
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thonish26&color=00ffcc&style=for-the-badge"/> </p>
+## 🚀 Projects
 
-🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+### Hotel Management System
+- HTML, CSS, JavaScript
+- Room Booking System
+- Responsive Design
 
-<!-- ========== FOOTER ========== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=140&section=footer" /> ```
+### Employee Management System
+- Java, Spring Boot, MySQL
+- CRUD Operations
+- REST API
+
+### Portfolio Website
+- Personal Portfolio
+- Responsive Design
+
+---
+
+## 📜 Certifications
+
+- Java Full Stack Development
+- Spring Boot Training
+- MySQL Certification
+- Digital Marketing Certification
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOURPROFILE
+- Email: yourmail@gmail.com
