@@ -30,16 +30,12 @@
 
 ---
 
-## 🚀 About Me
+- ## 🎯 Current Focus
 
-I'm an aspiring **Java Developer** with a strong foundation in **Object-Oriented Programming** and modern web development.
-
-- 🎓 BCA Graduate
-- ☕ Strong knowledge of Core Java
-- 🌱 Currently learning Spring Boot, React, Docker, REST APIs, and MySQL
-- 💻 Passionate about Backend Development and Full Stack Development
-- 🚀 Open to Internship and Entry-Level Software Developer Opportunities
-- 📍 Tamil Nadu, India
+- ☕ Building Java & Spring Boot Applications
+- 🌱 Learning React for Full Stack Development
+- 💻 Exploring Docker & Containerization
+- 🚀 Improving Problem Solving Skills
 
 ---
 
