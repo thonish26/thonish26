@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Thonish M
@@ -8,17 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=thonish26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Learner;Docker+Learner;Backend+Development+Enthusiast;Open+to+Software+Developer+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Learner;Docker+Learner;Backend+Development+Enthusiast;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
 
 <p>
   <a href="mailto:thonishm26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/m-thonish26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/thonish26">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -30,7 +32,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring Java Developer with a strong foundation in Object-Oriented Programming and modern web development.
+I'm an aspiring **Java Developer** with a strong foundation in **Object-Oriented Programming** and modern web development.
 
 - 🎓 BCA Graduate
 - ☕ Strong knowledge of Core Java
@@ -154,8 +156,6 @@ To begin my professional journey as a Software Developer, contribute to impactfu
 
 <div align="center">
 
-### 💡 Developer Motto
-
-**"Building scalable applications and continuously learning new technologies."**
+  <i>"Code. Learn. Improve. Repeat."</i>
 
 </div>
