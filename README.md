@@ -56,9 +56,9 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,idea" />
 
 </div>
 
