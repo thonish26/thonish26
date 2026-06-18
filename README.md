@@ -45,19 +45,18 @@
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-### Backend
+### Frontend
+<img src="https://skillicons.dev/icons?i=react" />
 
+### Backend
 <img src="https://skillicons.dev/icons?i=spring" />
 
 ### Database
-
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,idea" />
 
 </div>
