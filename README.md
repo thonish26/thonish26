@@ -1,11 +1,15 @@
 # Hi 👋 I'm Thonish M
 
-💻 Java Developer | 🌱 Spring Boot Learner | 🚀 Future Backend Engineer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;Future+Software+Engineer)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4CAF50&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 BCA Bachelor of Computer Science
+- 🎓 BCA Computer Science Student
 - ☕ Java | OOP | Spring Boot | MySQL
 - 🌱 Currently learning Backend Development
 - 💡 Interested in building real-world systems
@@ -42,10 +46,26 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thonish26&theme=darkhub&no-frame=true)
+
+---
+
 ## 🌐 Connect With Me
 
-- 📧 Email: thonishm26@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/m-thonish26  
+<p align="left">
+<a href="https://www.linkedin.com/in/m-thonish26">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:thonishm26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=thonish26&color=blue&style=flat)
 
 ---
 
