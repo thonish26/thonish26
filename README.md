@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thonish" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm Thonish M</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BCA+Graduate;Java+Full+Stack+Developer;Web+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=BCA+Graduate;Java+Developer;Spring+Boot+Learner;Backend+Development+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+Passionate about building efficient and user-friendly applications using Java and modern web technologies.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-thonish26">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:thonishm26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -19,69 +21,99 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **BCA Graduate** passionate about building robust web applications.
-* 💻 **Java Full Stack Developer** specializing in enterprise-ready backends and dynamic frontends.
-* 🌱 Currently deep-diving into **Spring Boot** & **React** ecosystem.
-* 🚀 Always open to collaborating on open-source web development projects.
-* 📍 Based in **Tamil Nadu, India**.
+- 🎓 BCA Graduate
+- ☕ Java Developer
+- 🌱 Currently learning Spring Boot & MySQL
+- 💡 Strong understanding of Core Java and Object-Oriented Programming
+- 🚀 Open to Internship and Entry-Level Software Developer Opportunities
+- 📍 Tamil Nadu, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 Programming Languages
-<p align="left">
+### Programming Languages
+
+<p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
-### 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react" />
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### 🗄️ Database
-<p align="left">
+### Database
+
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏨 Hotel Management System
-* **Tech Stack:** HTML5, CSS3, JavaScript
-* Key features: Streamlined room booking flow, dynamic availability tracking, and a fully responsive interface.
+### 💰 Income & Expense Management System
 
-### 👥 Employee Management System
-* **Tech Stack:** Java, Spring Boot, MySQL
-* Key features: Built enterprise-grade REST APIs, secured full CRUD functionalities, and designed efficient database schemas.
+Spring Boot based web application for tracking and managing personal income and expenses.
 
-### 🌐 Portfolio Website
-* **Tech Stack:** HTML5, CSS3, JavaScript
-* Key features: A clean, pixel-perfect personal portfolio optimized for cross-device responsiveness.
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS
+
+🔗 Repository:
+https://github.com/thonish26/Income_Expense-in-SpringBoot
 
 ---
 
-## 📜 Certifications
+### 🧾 Billing Management System
 
-* 🏅 Java Full Stack Development Training
-* 🏅 Spring Boot Masterclass
-* 🏅 SQL & Relational Databases (MySQL)
-* 🏅 Foundations of Digital Marketing
+Java-based billing management application for handling customer records and billing operations.
+
+**Tech Stack:** Java, MySQL, HTML, CSS
+
+🔗 Repository:
+https://github.com/thonish26/Billing-Management-System
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Currently Learning
+
+- Spring Boot
+- REST API Development
+- MySQL Database Design
+- Git & GitHub
+- Backend Development
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thonish26&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonish26&layout=compact" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact
 
+📧 Email: thonishm26@gmail.com
 
-* 💼 **LinkedIn:** https://linkedin.com/in/m-thonish26
-* 📧 **Email:** thonishmm26@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/m-thonish26
+
+🐙 GitHub: https://github.com/thonish26
+
+---
+
+### 💡 Quote
+
+> "Continuous learning and consistent practice are the keys to becoming a successful developer."
